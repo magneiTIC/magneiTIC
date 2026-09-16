@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=C489D6&center=true&vCenter=true&width=600&lines=Hello%2C+je+suis+Sokhna+Magn%C3%A9+%F0%9F%91%8B;D%C3%A9veloppeuse+Full+Stack;Passionn%C3%A9e+par+la+Data+%26+le+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=C489D6&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Sokhna+Magn%C3%A9+%F0%9F%91%8B;D%C3%A9veloppeuse+Full+Stack;Passionn%C3%A9e+par+la+Data+%26+le+Cloud" alt="Typing SVG" />
 
 </div>
 
@@ -39,20 +39,16 @@ Développeuse full stack passionnée par la Business Intelligence et l'analyse d
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma&theme=dark" />
 
-### 📌 Projets phares
-
-| Projet | Description | Stack |
-|---|---|---|
-| 📊 **Plateforme BI entreprise** *(mémoire de Master)* | BI dédiée à une entreprise commerciale : Excel + BD ventes → Redshift via NiFi, dashboards intégrés | `Amazon Redshift` `Apache NiFi` `Power BI` |
-| 🕵️ **Détection de fraude mobile money** | Analyse exploratoire, KPI et dashboard Power BI sur des transactions frauduleuses | `Python` `Power BI` |
-| 🌦️ **Collecte météo UEMOA** | Pipeline de données météo orchestré avec Dagster (API Open-Meteo) | `Dagster` `Python` |
-| 🔒 **Messagerie sécurisée** | Chat chiffré de bout en bout, anti-capture, anti-transfert | `Angular` `Node.js` |
-| 🏥 **Gestion IPM multisite** | API d'authentification multisite + gestion IPM | `FastAPI` `Jakarta EE` `Angular` |
-
-### 📊 Statistiques GitHub
+### 🏆 Top 5 langages (par repo)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=magneiTIC&show_icons=true&theme=radical&hide_border=true&title_color=C489D6&icon_color=C489D6&text_color=f5eefb&bg_color=100a17" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magneiTIC&layout=compact&langs_count=5&theme=radical&hide_border=true&title_color=C489D6&text_color=f5eefb&bg_color=100a17" />
+</div>
+
+### 📊 Statistiques de commits & contributions
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=magneiTIC&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&title_color=C489D6&icon_color=C489D6&text_color=f5eefb&bg_color=100a17" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=magneiTIC&theme=radical&hide_border=true&ring=C489D6&fire=F2A6C9&currStreakLabel=C489D6&background=100a17" width="49%" />
 </div>
 
