@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=C489D6&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Sokhna+Magn%C3%A9+%F0%9F%91%8B;D%C3%A9veloppeuse+Full+Stack;Passionn%C3%A9e+par+la+Data+%26+le+Cloud" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=C489D6&center=true&vCenter=true&width=600&lines=Hello%2C+je+suis+Sokhna+Magn%C3%A9+%F0%9F%91%8B;D%C3%A9veloppeuse+Full+Stack;Passionn%C3%A9e+par+la+Data+%26+le+Cloud" alt="Typing SVG" />
 
 </div>
 
