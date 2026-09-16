@@ -39,11 +39,7 @@ Développeuse full stack passionnée par la Business Intelligence et l'analyse d
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,figma&theme=dark" />
 
-### 🏆 Top 5 langages (par repo)
 
-<div align="center">
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=magneiTIC&layout=compact&langs_count=5&theme=radical&hide_border=true&title_color=C489D6&text_color=f5eefb&bg_color=100a17" />
-</div>
 
 ### 📊 Statistiques de commits & contributions
 
