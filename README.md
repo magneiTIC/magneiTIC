@@ -44,8 +44,8 @@ Développeuse full stack passionnée par la Business Intelligence et l'analyse d
 ### 📊 Statistiques de commits & contributions
 
 <div align="center">
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=magneiTIC&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&title_color=C489D6&icon_color=C489D6&text_color=f5eefb&bg_color=100a17" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=magneiTIC&theme=radical&hide_border=true&ring=C489D6&fire=F2A6C9&currStreakLabel=C489D6&background=100a17" width="49%" />
+
+<img src="https://streak-stats.demolab.com/?user=magneiTIC&theme=radical&hide_border=true&ring=C489D6&fire=F2A6C9&currStreakLabel=C489D6&background=100a17" width="80%" />
 </div>
 
 ### 📫 Me contacter
