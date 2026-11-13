@@ -41,12 +41,6 @@ Développeuse full stack passionnée par la Business Intelligence et l'analyse d
 
 
 
-### 📊 Statistiques de commits & contributions
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=magneiTIC&theme=radical&hide_border=true&ring=C489D6&fire=F2A6C9&currStreakLabel=C489D6&background=100a17" width="80%" />
-</div>
 
 ### 📫 Me contacter
 
